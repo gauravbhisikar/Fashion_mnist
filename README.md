@@ -6,7 +6,7 @@
  * install tensorflow using command ''pip install tensorflow''
  * Then run Fashion_mnist.py file using typing in command promt 
 
- ### 'cd[Path]'
- ### "python Fashion_mnist.py"
+ ### cd[Path]
+ ### python convolution.py
  ### Done!
 
